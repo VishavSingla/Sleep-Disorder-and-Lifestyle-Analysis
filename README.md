@@ -5,3 +5,5 @@ Sleep disorders are common and can have a significant impact on health and quali
 The project involves obtaining and preprocessing data, training models, evaluating performance, analyzing influential features, and providing actionable recommendations. The goal is to develop an accurate and interpretable model that can help identify and manage sleep disorders.
 
 https://colab.research.google.com/drive/1O0rgv7z_CftZtbgNrxTjfZ8d7NJuwUry?usp=sharing
+
+https://colab.research.google.com/drive/1khDgxzBhKhlAP1qCvbBQ0R96Z3eR_p5b?usp=sharing
