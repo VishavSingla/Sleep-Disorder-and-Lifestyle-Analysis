@@ -7,3 +7,5 @@ The project involves obtaining and preprocessing data, training models, evaluati
 https://colab.research.google.com/drive/1O0rgv7z_CftZtbgNrxTjfZ8d7NJuwUry?usp=sharing
 
 https://colab.research.google.com/drive/1khDgxzBhKhlAP1qCvbBQ0R96Z3eR_p5b?usp=sharing
+
+https://colab.research.google.com/drive/1O0rgv7z_CftZtbgNrxTjfZ8d7NJuwUry?usp=sharing#scrollTo=lOET1OtJMj2F
